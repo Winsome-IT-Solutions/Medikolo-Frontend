@@ -1,7 +1,5 @@
 import React from "react";
-import "../assets/css/App.css";
 import "../assets/css/login.css";
-import "../assets/fonts/font-awesome/css/font-awesome.min.css";
 
 class Register extends React.Component {
   render() {

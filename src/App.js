@@ -16,6 +16,13 @@ class App extends React.Component {
                 alt="Medikolo Logo"
               />
             </div>
+            <a href="/login" style={{ marginLeft: "20px" }}>
+              Login
+            </a>{" "}
+            <br />
+            <a href="/register" style={{ marginLeft: "20px" }}>
+              Register
+            </a>
           </div>
           <div className="row">
             <div className="col-6">

@@ -1,5 +1,4 @@
 import React from "react";
-import "../assets/css/App.css";
 import "../assets/css/login.css";
 
 class Login extends React.Component {
@@ -9,7 +8,12 @@ class Login extends React.Component {
         <a href="/">Home</a>
         <div class="container">
           <div class="wrapper">
-            <form action="" method="post" name="Login_Form" class="form-signin">
+            <form
+              action="/doc_profile"
+              method="get"
+              name="Login_Form"
+              class="form-signin"
+            >
               <h3 class="form-signin-heading">Please Sign In to Continue</h3>
               <hr class="colorgraph" />
               <br />
