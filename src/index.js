@@ -9,6 +9,8 @@ import BookYourHospital from "./pages/bookYourHospital";
 import CallAmbulance from "./pages/callAmbulance";
 import ParentCare from "./pages/parentCare";
 import GetMedicine from "./pages/getMedicine";
+import Login from "./pages/login";
+import Register from "./pages/register";
 
 const MyRouter = (
   <Router>
@@ -19,6 +21,8 @@ const MyRouter = (
     <Route path="/call-ambulance" component={CallAmbulance} />
     <Route path="/get-medicine" component={GetMedicine} />
     <Route path="/parent-care" component={ParentCare} />
+    <Route path="/login" component={Login} />
+    <Route path="/register" component={Register} />
   </Router>
 );
 

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0002",
+    "name": "Dr. Souvik Debnath",
+    "location": "Barrackpore, Kolkata",
+    "email": "souvik@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Cardiologist"
+  },
+  {
+    "id": "0003",
+    "name": "Dr. Arindam Chowdhury",
+    "location": "Garia, Kolkata",
+    "email": "arindam@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Maternity Specialist"
+  },
+  {
+    "id": "0004",
+    "name": "Dr. Pallab Mukherjee",
+    "location": "Durgapur, West Bengal",
+    "email": "pallab@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Neurologist"
+  },
+  {
+    "id": "0005",
+    "name": "Dr. Soumik Saha",
+    "location": "Beleghata, Kolkata",
+    "email": "soumik@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "General Physician"
+  },
+  {
+    "id": "0006",
+    "name": "Dr. Diptiman Chattopaddhay",
+    "location": "Mandirtala, Howrah",
+    "email": "diptiman@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Physician"
+  },
+  {
+    "id": "0008",
+    "name": "Dr. Shital Rudra",
+    "location": "Keshtopur, Kolkata",
+    "email": "shital@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Psychologist"
+  },
+  {
+    "id": "0031",
+    "name": "Dr. Nupur Banerjee",
+    "location": "Barasat, Kolkata",
+    "email": "nupur@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Physician"
+  },
+  {
+    "id": "0024",
+    "name": "Dr. Dil Afroz",
+    "location": "Chinar Park, Kolkata",
+    "email": "afroz@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Cardiologist"
+  },
+  {
+    "id": "0009",
+    "name": "Dr. Ravik Ganguly",
+    "location": "Baguihati, Kolkata",
+    "email": "ravik@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Orthopaedic"
+  },
+  {
+    "id": "0007",
+    "name": "Dr. Sayantan Sengupta",
+    "location": "Chandannagar, West Bengal",
+    "email": "sayantan@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Neurologist"
+  },
+  {
+    "id": "0001",
+    "name": "Dr. Arup Ratan Mallick",
+    "location": "Baguihati, Kolkata",
+    "email": "mallik@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Physician"
+  },
+  {
+    "id": "0010",
+    "name": "Dr. Kabirul Islam",
+    "location": "Behala, Kolkata",
+    "email": "kabirul@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Cardiologist"
+  },
+  {
+    "id": "0011",
+    "name": "Dr. Akash Biswas",
+    "location": "Jadavpur, Kolkata",
+    "email": "akash@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Psychologist"
+  },
+  {
+    "id": "0021",
+    "name": "Dr. Sah Nawaz Hossain",
+    "location": "Baruipur, Kolkata",
+    "email": "nawaz@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Gynaecologist"
+  },
+  {
+    "id": "0021",
+    "name": "Dr. Abhijit Adhikari",
+    "location": "Noapara, Kolkata",
+    "email": "abhijit@medikolo.com",
+    "phone_no": "9876543210",
+    "department": "Gynaecologist"
+  }
+]
