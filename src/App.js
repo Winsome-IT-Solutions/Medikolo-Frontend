@@ -26,7 +26,7 @@ class App extends React.Component {
           </div>
           <div className="row">
             <div className="col-6">
-              <a href="/meet-your-doc">
+              <a href="/login">
                 <Card
                   text="Meet Your Doctor"
                   imgPath={require("./assets/img/doctor.jpg")}

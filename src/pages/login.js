@@ -9,7 +9,7 @@ class Login extends React.Component {
         <div class="container">
           <div class="wrapper">
             <form
-              action="/doc_profile"
+              action="/meet-your-doc"
               method="get"
               name="Login_Form"
               class="form-signin"

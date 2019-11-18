@@ -88,7 +88,7 @@ class MeetYourDoc extends Component {
             <div className="row list">
               <div className="col-6">
                 <h4>
-                  Name: <a href="/login">{doctor.name}</a>
+                  Name: <a href="/doc_profile">{doctor.name}</a>
                 </h4>
                 <h5>Location: {doctor.location}</h5>
                 <h6>Department: {doctor.department}</h6>
