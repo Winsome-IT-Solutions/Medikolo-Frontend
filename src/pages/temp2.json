@@ -1,0 +1,65 @@
+[
+  {
+    "id": "0002",
+    "name": "Ammonia Blood Level Test",
+    "location": "Beleghata, Kolkata",
+    "hos_name": "Apollo Hospital",
+    "img": "https://www.verywellhealth.com/thmb/RpxtOqOjD8TYGMvv0qh9YQhF5pE=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-507882723-58e7b5b45f9b58ef7e12daec.jpg"
+  },
+  {
+    "id": "0003",
+    "name": "Bilirubin Test",
+    "location": "Jadavpur, Kolkata",
+    "hos_name": "Fortis Hospital",
+    "img": "https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202019/Health/10October/CR-Health-Inlinehero-healthiest-medical-tests-1019"
+  },
+  {
+    "id": "0004",
+    "name": "Cholesterol Health Check",
+    "location": "Garia, Kolkata",
+    "hos_name": "Medica Hospital",
+    "img": "https://www.healthnewsreview.org/wp-content/uploads/2018/06/GettyImages-691562544-300x200.jpg"
+  },
+  {
+    "id": "0005",
+    "name": "Dobutamine Stress Test",
+    "location": "Beleghata, Kolkata",
+    "hos_name": "Apollo Hospital",
+    "img": "https://www.readersdigest.ca/wp-content/uploads/sites/14/2016/05/how-to-prepare-for-a-medical-screening-test.jpg"
+  },
+  {
+    "id": "0006",
+    "name": "EBV Antibody Test",
+    "location": "Barasat, Kolkata",
+    "hos_name": "Iris Hospital",
+    "img": "https://i2-prod.mirror.co.uk/incoming/article8970342.ece/ALTERNATES/s615/Woman-going-into-CT-scanner.jpg"
+  },
+  {
+    "id": "0007",
+    "name": "Fluorescein Dye Test",
+    "location": "Durgapur, West Bengal",
+    "hos_name": "Columbia Asia Hospital",
+    "img": "http://images.forbes.com/media/2010/06/16/0616_lab-report_485x340.jpg"
+  },
+  {
+    "id": "0008",
+    "name": "Histocompatibility Testing",
+    "location": "Banshdroni, Kolkata",
+    "hos_name": "Desun Hospital",
+    "img": "https://iguana-idm.com/wp-content/uploads/Intelligent-Lab-Form-Capture-Solution.jpg"
+  },
+  {
+    "id": "0012",
+    "name": "Immunoglobulins Test",
+    "location": "Salt Lake, Kolkata",
+    "hos_name": "AMRI Hospital",
+    "img": "https://www.verywellhealth.com/thmb/jp6If5LXHVc4_f1yUtoFCOIf7bw=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/johnmoore-56a6f7175f9b58b7d0e5ba23.jpg"
+  },
+  {
+    "id": "0013",
+    "name": "Indocyanine Green Test",
+    "location": "Chinar Park, Kolkata",
+    "hos_name": "Charnock Hospital",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQV6M0_Yd4UPgMgJs_G9G7POpgGq9uYlylZ92Ugj6ZQxaAWqQn&s"
+  }
+]

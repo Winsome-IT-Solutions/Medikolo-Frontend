@@ -14,7 +14,17 @@
   font-family: CircularStd-Medium;
 }
 .body {
-  background: linear-gradient(135deg, #cbcbcc, #ccaff8, #abf5d6);
+  background: linear-gradient(135deg, #b7f1fc, #71f5c2);
+}
+.primary {
+  background-color: greenyellow;
+  color: red;
+}
+.btn-secondary {
+  color: #fff;
+  background-color: teal;
+  border-color: springgreen;
+  margin-top: 48px;
 }
 #container {
   width: 100%;

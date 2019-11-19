@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0002",
+    "name": "Apollo Hospital",
+    "location": "Beleghata, Kolkata",
+    "email": "apollo@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://www.apollohospitals.com/images/locations/apollo-home-ahmedabad.jpg"
+  },
+  {
+    "id": "0003",
+    "name": "Fortis Hospital",
+    "location": "Sealdah, Kolkata",
+    "email": "fortis@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://www.tourmyindia.com/medical-tourism/wp-content/uploads/2016/10/kolkata.png"
+  },
+  {
+    "id": "0004",
+    "name": "Medica Hospital",
+    "location": "Rabindra Sadan, Kolkata",
+    "email": "medica@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "http://images.jdmagicbox.com/comp/kolkata/u5/033pxx33.xx33.110805105415.m8u5/catalogue/medica-superspecialty-hospital-mukundapur-kolkata-hospitals-f8qck.jpg"
+  },
+  {
+    "id": "0005",
+    "name": "Columbia Asia",
+    "location": "Garia, Kolkata",
+    "email": "columbia@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/practo-fabric/columbia-asia-hospitals-kolkata-1474718823-57e66c6762f9d.jpg"
+  },
+  {
+    "id": "0006",
+    "name": "AMRI Hospital",
+    "location": "Salt Lake, Kolkata",
+    "email": "amri@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://media.glassdoor.com/l/632217/amri-hospitals-office.jpg"
+  },
+  {
+    "id": "0012",
+    "name": "Ruby Hospital",
+    "location": "Garia, Kolkata",
+    "email": "ruby@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://confusedparent.in/wp-content/uploads/2017/02/Best-Gynecologists-Maternity-Hospitals-in-Kolkata-Ruby.png"
+  },
+  {
+    "id": "0013",
+    "name": "IRIS Hospital",
+    "location": "Jadavpur, Kolkata",
+    "email": "iris@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/practo-fabric/iris-hospital-kolkata-1474960366-57ea1bee6f32f.jpg"
+  },
+  {
+    "id": "0014",
+    "name": "Desun Hospital",
+    "location": "Shyambazar, Kolkata",
+    "email": "desun@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://content3.jdmagicbox.com/comp/kolkata/q4/033p1221714677n6m4q4/catalogue/desun-hospital-east-kolkata-township-kolkata-ambulance-services-op4zi.jpg"
+  },
+  {
+    "id": "0015",
+    "name": "Disha Eye Hospital",
+    "location": "Banshdroni, Kolkata",
+    "email": "disha@medikolo.com",
+    "phone_no": "9876543210",
+    "img": "https://content3.jdmagicbox.com/comp/kolkata/q6/033pxx33.xx33.130906102808.e9q6/catalogue/disha-eye-hospital-behala-kolkata-hospitals-zszbb-250.jpg"
+  }
+]

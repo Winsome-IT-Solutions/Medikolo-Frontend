@@ -12,6 +12,8 @@ import GetMedicine from "./pages/getMedicine";
 import Login from "./pages/login";
 import Register from "./pages/register";
 import Profile from "./pages/profile";
+import Hospital from "./pages/hospitalProfile";
+import Test from "./pages/test";
 
 const MyRouter = (
   <Router>
@@ -25,6 +27,8 @@ const MyRouter = (
     <Route path="/login" component={Login} />
     <Route path="/register" component={Register} />
     <Route path="/doc_profile" component={Profile} />
+    <Route path="/hos_profile" component={Hospital} />
+    <Route path="/test" component={Test} />
   </Router>
 );
 

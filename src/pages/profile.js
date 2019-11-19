@@ -1,7 +1,6 @@
 import React from "react";
 import { Map, GoogleApiWrapper, Marker } from "google-maps-react";
 import Modal from "react-modal";
-import { Table } from "react-bootstrap";
 
 const mapStyles = {
   width: "100%"
@@ -63,7 +62,9 @@ class Profile extends React.Component {
             <p>2. Location 2: Date and Time</p>
             <p>3. Location 3: Date and Time</p>
             Check the time table by{" "}
-            <button onClick={this.openModal}>Clicking here</button>
+            <button className="btn-primary" onClick={this.openModal}>
+              Clicking here
+            </button>
             <Modal
               isOpen={this.state.modalIsOpen}
               onAfterOpen={this.afterOpenModal}
