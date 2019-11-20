@@ -15,7 +15,7 @@
 }
 .body {
   /* background: linear-gradient(135deg, #005aa7, #fffde4); */
-  background: url(../img/cool-background.svg);
+  background: url(../img/background.jpg);
   background-size: cover;
 }
 .primary {
@@ -26,7 +26,8 @@
   color: #fff;
   background-color: teal;
   border-color: springgreen;
-  margin-top: 48px;
+  padding: 10px;
+  margin: 30px;
 }
 #container {
   width: 100%;

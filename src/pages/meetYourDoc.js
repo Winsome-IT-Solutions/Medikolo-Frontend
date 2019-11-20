@@ -61,7 +61,7 @@ class MeetYourDoc extends Component {
           </div>
           <div className="col-3">
             <Dropdown className="department">
-              <Dropdown.Toggle variant="secondary" id="dropdown-basic">
+              <Dropdown.Toggle variant="primary" id="dropdown-basic">
                 Department
               </Dropdown.Toggle>
 
