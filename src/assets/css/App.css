@@ -14,7 +14,9 @@
   font-family: CircularStd-Medium;
 }
 .body {
-  background: linear-gradient(135deg, #b7f1fc, #71f5c2);
+  /* background: linear-gradient(135deg, #005aa7, #fffde4); */
+  background: url(../img/cool-background.svg);
+  background-size: cover;
 }
 .primary {
   background-color: greenyellow;
