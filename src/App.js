@@ -48,7 +48,7 @@ class App extends React.Component {
             <Tilt>
               <div class="wrap wrap--3">
                 <a href="/book-your-test">
-                  <div class="card-container card-container--5">
+                  <div class="card-container card-container--3">
                     <p>Book your Test</p>
                   </div>
                 </a>
@@ -57,7 +57,7 @@ class App extends React.Component {
             <Tilt>
               <div class="wrap wrap--4">
                 <a href="/get-medicine">
-                  <div class="card-container card-container--3">
+                  <div class="card-container card-container--4">
                     <p>Get Medicine Now</p>
                   </div>
                 </a>
@@ -68,7 +68,7 @@ class App extends React.Component {
               {" "}
               <div class="wrap wrap--5">
                 <a href="/call-ambulance">
-                  <div class="card-container card-container--4">
+                  <div class="card-container card-container--5">
                     <p>Call Ambulance</p>
                   </div>
                 </a>
@@ -77,10 +77,10 @@ class App extends React.Component {
 
             <Tilt>
               {" "}
-              <div class="wrap wrap--6">
-                <a href="/parent-care">
-                  <div class="card-container card-container--6">
-                    <p>Parent Care</p>
+              <div class="wrap wrap--6 box16">
+                <a className="title" href="/parent-care">
+                  <div class="card-container card-container--6 overlay">
+                    <p className="post">Parent Care</p>
                   </div>
                 </a>
               </div>

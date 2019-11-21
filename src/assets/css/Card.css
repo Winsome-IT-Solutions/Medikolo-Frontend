@@ -62,7 +62,7 @@
   display: block;
   flex: none;
   overflow: hidden;
-  transform: rotateX(calc(var(--rX) * 1deg)) rotateY(calc(var(--rY) * 1deg));
+  transform: rotateX(calc(var(--rX) * 90deg)) rotateY(calc(var(--rY) * 1deg));
   background-position: var(--bX) var(--bY);
   background-size: 22rem auto;
   box-shadow: 0 0 3rem 0.5rem hsla(0, 0%, 0%, 0.2);
@@ -105,37 +105,37 @@
 }
 
 .card-container--1 {
-  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+  background: linear-gradient(hsla(0, 0%, 13%, 0.733), hsla(0, 1%, 21%, 0.774)),
     url("../img/doctor.jpg");
 }
 
 .card-container--2 {
-  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+  background: linear-gradient(hsla(0, 0%, 13%, 0.733), hsla(0, 1%, 21%, 0.774)),
     url("../img/hospital.jpg");
 }
 
 .card-container--3 {
-  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+  background: linear-gradient(hsla(0, 0%, 13%, 0.733), hsla(0, 1%, 21%, 0.774)),
     url("../img/test.jpg");
 }
 
 .card-container--4 {
-  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+  background: linear-gradient(hsla(0, 0%, 13%, 0.733), hsla(0, 1%, 21%, 0.774)),
     url("../img/medicine.jpg");
 }
 
 .card-container--5 {
-  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+  background: linear-gradient(hsla(0, 0%, 13%, 0.733), hsla(0, 1%, 21%, 0.774)),
     url("../img/ambulance.jpg");
 }
 
 .card-container--6 {
-  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+  background: linear-gradient(hsla(0, 0%, 13%, 0.733), hsla(0, 1%, 21%, 0.774)),
     url("../img/care.jpg");
 }
 
 .card-container p {
-  color: hsla(192, 94%, 66%, 0.842);
+  color: plum;
   font-size: 2.2rem;
   padding: 2rem;
 }
@@ -144,4 +144,11 @@
 .wrap:hover .card-container::after {
   width: calc(100% - 4rem);
   height: calc(100% - 4rem);
+}
+.card-container p:hover {
+  will-change: transform;
+  color: hsla(108, 89%, 63%, 0.842);
+  font-size: 2.8rem;
+  padding: 1rem;
+  transform-style: preserve-3d;
 }
