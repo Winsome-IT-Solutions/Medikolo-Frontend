@@ -8,7 +8,7 @@ import logo from "../assets/img/logo-medikolo.png";
 class MeetYourDoc extends Component {
   render() {
     return (
-      <div>
+      <div className="container">
         <a href="/">Home</a>
         <div className="col-9">
           <p align="center">Search by</p>
@@ -83,21 +83,48 @@ class MeetYourDoc extends Component {
         </div>
         <h3 className="col-6 list"> Doctors Available (Dummy Data)</h3>
         <hr className="style2" />
-        {data.map((doctor, i) => (
-          <div>
-            <div className="row list">
-              <div className="col-6">
-                <h4>
+        <div className="row">
+          {data.map((doctor, i) => (
+            <div className="col-4">
+              {/* <h4>
                   Name: <a href="/doc_profile">{doctor.name}</a>
                 </h4>
                 <h5>Location: {doctor.location}</h5>
                 <h6>Department: {doctor.department}</h6>
-                -----------------------------------------------
+                ----------------------------------------------- */}
+              <div class="box16">
+                <img src={doctor.img} />
+                <div class="box-content">
+                  <h3 class="title">{doctor.name}</h3>
+                  <h4 class="title">{doctor.location}</h4>
+                  <span class="post">{doctor.department}</span>
+                  <ul class="social">
+                    <li>
+                      <a href="#">
+                        <i class="fa fa-facebook"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i class="fa fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i class="fa fa-instagram"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i class="fa fa-google-plus"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </div>
-              <div className="col-6">Image of the Doctor</div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
     );
   }

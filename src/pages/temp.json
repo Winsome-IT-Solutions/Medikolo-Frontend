@@ -5,7 +5,8 @@
     "location": "Barrackpore, Kolkata",
     "email": "souvik@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Cardiologist"
+    "department": "Cardiologist",
+    "img": "https://www.thehealthy.com/wp-content/uploads/2017/09/02_doctor_Insider-Tips-to-Choosing-the-Best-Primary-Care-Doctor_519507367_Stokkete.jpg"
   },
   {
     "id": "0003",
@@ -13,7 +14,8 @@
     "location": "Garia, Kolkata",
     "email": "arindam@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Maternity Specialist"
+    "department": "Maternity Specialist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0004",
@@ -21,7 +23,8 @@
     "location": "Durgapur, West Bengal",
     "email": "pallab@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Neurologist"
+    "department": "Neurologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0005",
@@ -29,7 +32,8 @@
     "location": "Beleghata, Kolkata",
     "email": "soumik@medikolo.com",
     "phone_no": "9876543210",
-    "department": "General Physician"
+    "department": "General Physician",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0006",
@@ -37,7 +41,8 @@
     "location": "Mandirtala, Howrah",
     "email": "diptiman@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Physician"
+    "department": "Physician",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0008",
@@ -45,7 +50,8 @@
     "location": "Keshtopur, Kolkata",
     "email": "shital@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Psychologist"
+    "department": "Psychologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0031",
@@ -53,7 +59,8 @@
     "location": "Barasat, Kolkata",
     "email": "nupur@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Physician"
+    "department": "Physician",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0024",
@@ -61,7 +68,8 @@
     "location": "Chinar Park, Kolkata",
     "email": "afroz@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Cardiologist"
+    "department": "Cardiologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0009",
@@ -69,7 +77,8 @@
     "location": "Baguihati, Kolkata",
     "email": "ravik@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Orthopaedic"
+    "department": "Orthopaedic",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0007",
@@ -77,7 +86,8 @@
     "location": "Chandannagar, West Bengal",
     "email": "sayantan@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Neurologist"
+    "department": "Neurologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0001",
@@ -85,7 +95,8 @@
     "location": "Baguihati, Kolkata",
     "email": "mallik@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Physician"
+    "department": "Physician",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0010",
@@ -93,7 +104,8 @@
     "location": "Behala, Kolkata",
     "email": "kabirul@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Cardiologist"
+    "department": "Cardiologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0011",
@@ -101,7 +113,8 @@
     "location": "Jadavpur, Kolkata",
     "email": "akash@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Psychologist"
+    "department": "Psychologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0021",
@@ -109,7 +122,8 @@
     "location": "Baruipur, Kolkata",
     "email": "nawaz@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Gynaecologist"
+    "department": "Gynaecologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   },
   {
     "id": "0021",
@@ -117,6 +131,7 @@
     "location": "Noapara, Kolkata",
     "email": "abhijit@medikolo.com",
     "phone_no": "9876543210",
-    "department": "Gynaecologist"
+    "department": "Gynaecologist",
+    "img": "https://us.123rf.com/450wm/dolgachov/dolgachov1712/dolgachov171201323/92019175-happy-doctor-with-clipboard-at-clinic.jpg?ver=6"
   }
 ]
