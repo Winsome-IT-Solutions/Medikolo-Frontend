@@ -15,12 +15,26 @@ class Header extends React.Component {
                 alt="Medikolo Logo"
               />
             </div>
+            <div>
+              <ul>
+                <li className="login-register">
+                  <a className="log" href="/login">
+                    Login
+                  </a>
+                </li>
+                <li className="login-register">
+                  <a className="reg" href="/register">
+                    Register
+                  </a>
+                </li>
+              </ul>
+            </div>
           </center>
-          <button>
+          {/* <button>
             <a href="/login">Login</a>
           </button>
           <br />
-          <a href="/register">Register</a>
+          <a href="/register">Register</a> */}
         </div>
       </div>
     );

@@ -59,9 +59,9 @@ class Card extends React.Component {
 
           <Tilt>
             {" "}
-            <div class="wrap wrap--6 box16">
+            <div class="wrap wrap--6 ">
               <a className="title" href="/parent-care">
-                <div class="card-container card-container--6 overlay">
+                <div class="card-container card-container--6 ">
                   <p className="post">Parent Care</p>
                 </div>
               </a>
