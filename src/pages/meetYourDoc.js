@@ -86,14 +86,8 @@ class MeetYourDoc extends Component {
         <div className="row">
           {data.map((doctor, i) => (
             <div className="col-4">
-              {/* <h4>
-                  Name: <a href="/doc_profile">{doctor.name}</a>
-                </h4>
-                <h5>Location: {doctor.location}</h5>
-                <h6>Department: {doctor.department}</h6>
-                ----------------------------------------------- */}
               <div class="box16">
-                <img src={doctor.img} />
+                <img src={doctor.img} alt="" />
                 <div class="box-content">
                   <h3 class="title">{doctor.name}</h3>
                   <h4 class="title">{doctor.location}</h4>

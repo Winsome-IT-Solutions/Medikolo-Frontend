@@ -19,7 +19,7 @@ class BookYourTest extends React.Component {
                   <h5>Hospital Name: {test.hos_name}</h5>
                 </div>
                 <div className="col-6">
-                  <img src={test.img} width="300px" />
+                  <img src={test.img} alt="" width="300px" />
                 </div>
               </div>
               <hr class="style7" />

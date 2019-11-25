@@ -2,9 +2,6 @@ import React from "react";
 import Modal from "react-modal";
 import { Dropdown } from "react-bootstrap";
 
-const mapStyles = {
-  width: "100%"
-};
 const customStyles = {
   content: {
     top: "50%",

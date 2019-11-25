@@ -74,7 +74,7 @@ class Register extends React.Component {
                 Register
               </button>
               <p style={{ margin: "5px" }}>
-                Already an account? <a href="/login">Login here</a>
+                Already have an account? <a href="/login">Login here</a>
               </p>
             </form>
           </div>
